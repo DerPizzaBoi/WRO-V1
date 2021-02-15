@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+Implementation-Title: EV3Dev-lang-java
+Implementation-Version: 0.0.1
+Implementation-Vendor: Juan Antonio Breña Moral, modified by Yannick Wegel aka DerPizzaBoi
+Main-Class: main.MainApplication
