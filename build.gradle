@@ -26,6 +26,8 @@ dependencies {
     implementation 'com.github.ev3dev-lang-java:lejos-navigation:0.2.0'
     implementation 'com.github.ev3dev-lang-java:usb-devices:0.2.0-SNAPSHOT'
     implementation "org.jetbrains.kotlin:kotlin-stdlib-jdk8"
+
+    implementation 'org.jetbrains.kotlinx:kotlinx-coroutines-core:1.4.2'
 }
 
 apply from: './config.gradle'
