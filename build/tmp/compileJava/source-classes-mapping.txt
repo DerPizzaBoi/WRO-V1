@@ -2,5 +2,3 @@ main/MainApplication.java
  main.MainApplication
 main/Test.java
  main.Test
-main/ColorSensorManager.java
- main.ColorSensorManager
