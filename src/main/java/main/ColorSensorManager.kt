@@ -14,6 +14,7 @@ class ColorSensorManager : Runnable {
 
     private val scope = CoroutineScope(Dispatchers.Unconfined)
     private val logger = LoggerFactory.getLogger("joe")
+    private var abchecking= true
 
     private val lineDrive = EV3ColorSensor(SensorPort.S3);
     private val lineDetect = EV3ColorSensor(SensorPort.S2);
@@ -50,7 +51,22 @@ class ColorSensorManager : Runnable {
         data class ColorEvent(val color: Float) : ColorSensorEvent()
     }
 
+     private fun colorrange(){
+         var sampleProvider = sideScanner.redMode
+         var sampleSize = sampleProvider.sampleSize()
+         var sample = FloatArray(sampleSize)
+    while (abchecking){
+        var v =sideScanner.ambientMode
+        var p = v/ 80
+    }
+
+
+
+    }
+
     override fun run() {
         _init()
     }
+
+
 }

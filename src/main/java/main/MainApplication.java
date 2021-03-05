@@ -5,7 +5,7 @@ import org.slf4j.LoggerFactory;
 
 public class MainApplication {
 
-    public static Logger LOGGER = LoggerFactory.getLogger("gay bnouiii");
+    public static Logger LOGGER = LoggerFactory.getLogger("MainApplication");
 
     public MainApplication() {
         new Thread(new ColorSensorManager()).start();
