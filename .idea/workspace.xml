@@ -5,46 +5,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="50a3fb0e-ddeb-4617-9bde-69165016df6f" name="Default Changelist" comment="update">
-      <change beforePath="$PROJECT_DIR$/.gradle/6.7.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.7.1/executionHistory/executionHistory.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/6.7.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.7.1/executionHistory/executionHistory.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/6.7.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.7.1/fileHashes/fileHashes.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/6.7.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.7.1/fileHashes/fileHashes.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/6.7.1/fileHashes/resourceHashesCache.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.7.1/fileHashes/resourceHashesCache.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/6.7.1/javaCompile/classAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.7.1/javaCompile/classAnalysis.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/6.7.1/javaCompile/jarAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.7.1/javaCompile/jarAnalysis.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/6.7.1/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.7.1/javaCompile/javaCompile.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/6.7.1/javaCompile/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.7.1/javaCompile/taskHistory.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/main/LineDriveTest.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/main/values/Color.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/main/values/Speed.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/main/values/Value.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/checksums/checksums.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/checksums/checksums.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/checksums/md5-checksums.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/checksums/md5-checksums.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/checksums/sha1-checksums.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/checksums/sha1-checksums.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/main/MainApplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/main/MainApplication.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/kotlin/main/main/ColorSensorManager$ColorSensorEvent$ColorEvent.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/kotlin/main/main/ColorSensorManager$ColorSensorEvent$ColorEvent.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/kotlin/main/main/ColorSensorManager$ColorSensorEvent.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/kotlin/main/main/ColorSensorManager$ColorSensorEvent.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/kotlin/main/main/ColorSensorManager$notifyData$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/kotlin/main/main/ColorSensorManager$notifyData$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/kotlin/main/main/ColorSensorManager.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/kotlin/main/main/ColorSensorManager.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/kotlin/main/main/EntryPoint$1$invokeSuspend$$inlined$collect$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/kotlin/main/main/EntryPoint$1$invokeSuspend$$inlined$collect$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/kotlin/main/main/EntryPoint$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/kotlin/main/main/EntryPoint$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/kotlin/main/main/EntryPoint.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/kotlin/main/main/EntryPoint.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/build-history.bin" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/build-history.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/proto.tab" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/proto.tab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/proto.tab.values.at" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/jvm/kotlin/proto.tab.values.at" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/lookups/lookups.tab" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/lookups/lookups.tab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/lookups/lookups.tab.keystream" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/lookups/lookups.tab.keystream" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/lookups/lookups.tab.keystream.len" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/lookups/lookups.tab.keystream.len" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/lookups/lookups.tab.len" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/lookups/lookups.tab.len" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/lookups/lookups.tab.values.at" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/lookups/lookups.tab.values.at" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/lookups/lookups.tab_i" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/caches-jvm/lookups/lookups.tab_i" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/kotlin/compileKotlin/last-build.bin" beforeDir="false" afterPath="$PROJECT_DIR$/build/kotlin/compileKotlin/last-build.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/libs/templateprojectgradle-2.6.0.jar" beforeDir="false" afterPath="$PROJECT_DIR$/build/libs/templateprojectgradle-2.6.0.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/config.gradle" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/main/ColorSensorManager.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/main/ColorSensorManager.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/main/MainApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/main/MainApplication.java" afterDir="false" />
     </list>
-    <list id="9871e33a-5082-4056-b3be-02463b899289" name="Changes by Yanni" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/main/EntryPoint.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/main/MainApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/main/MainApplication.java" afterDir="false" />
-    </list>
+    <list id="9871e33a-5082-4056-b3be-02463b899289" name="Changes by Yanni" comment="" />
     <list id="8cec37ba-ed45-44d6-93c9-2259b8824985" name="Changes by Yannick" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -72,21 +44,13 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="Kotlin Interface" />
         <option value="Kotlin Class" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-  </component>
-  <component name="LineStatusTrackerManager">
-    <file path="$PROJECT_DIR$/src/main/java/main/MainApplication.java">
-      <ranges>
-        <range start1="7" end1="8" start2="7" end2="8" changelist="50a3fb0e-ddeb-4617-9bde-69165016df6f" />
-        <range start1="9" end1="13" start2="9" end2="9" changelist="9871e33a-5082-4056-b3be-02463b899289" />
-        <range start1="14" end1="17" start2="10" end2="13" changelist="9871e33a-5082-4056-b3be-02463b899289" />
-      </ranges>
-    </file>
   </component>
   <component name="MacroExpansionManager">
     <option name="directoryName" value="0waqvv78" />
@@ -109,7 +73,12 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="codeWithMe.voiceChat.enabledByDefault" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveKotlinTopLevelDeclarationsDialog.RECENTS_KEY">
+      <recent name="main.values" />
+    </key>
   </component>
   <component name="RunAnythingCache">
     <option name="myCommands">
@@ -244,8 +213,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <ignored-roots>
-      <path value="$PROJECT_DIR$" />
       <path value="$PROJECT_DIR$/mindstormWRO" />
+      <path value="$PROJECT_DIR$/WRO-V1" />
     </ignored-roots>
     <MESSAGE value="jojoj" />
     <MESSAGE value="init" />

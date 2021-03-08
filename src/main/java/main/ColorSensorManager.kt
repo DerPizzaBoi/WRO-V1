@@ -9,6 +9,7 @@ import kotlinx.coroutines.launch
 import lejos.hardware.port.SensorPort
 import lejos.utility.Delay
 import org.slf4j.LoggerFactory
+import java.awt.Color
 
 class ColorSensorManager : Runnable {
 
@@ -60,13 +61,9 @@ class ColorSensorManager : Runnable {
         var p = v/ 80
     }
 
-
-
     }
 
     override fun run() {
         _init()
     }
-
-
 }
