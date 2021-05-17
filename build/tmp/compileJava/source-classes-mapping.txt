@@ -1,4 +1,2 @@
-main/MainApplication.java
- main.MainApplication
-main/Test.java
- main.Test
+main/shit/MainApplication.java
+ main.shit.MainApplication
